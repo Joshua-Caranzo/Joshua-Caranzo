@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Joshua Caranzo. Please feel free 👋
 
 <!--
 **Joshua-Caranzo/Joshua-Caranzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
