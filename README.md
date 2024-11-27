@@ -1,5 +1,5 @@
 👋 Hi, I'm Joshua Caranzo!
-🚀 Full Stack Developer | Mobile & Web Enthusiast | Multi-Language Coder
+🚀 Full Stack Developer | Mobile & Web Enthusiast | Multi-Language Coder | Project Manager
 
 Welcome to my GitHub profile! I’m a passionate and versatile full-stack developer with a knack for building powerful, user-centric applications across mobile and web platforms. I thrive in crafting clean, scalable, and efficient solutions using a variety of programming languages and frameworks.
 
